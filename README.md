@@ -3,7 +3,7 @@
 Bu seride her gün C# dilinde bir konu öğrenip, küçük bir proje yapıyorum.  
 Hem kendim öğreniyor hem de öğrendiklerimi paylaşıyorum.
 
-📌 Tüm videolar YouTube kanalımda: [@thejarrus](https://www.youtube.com/playlist?list=PLCJE3B86lxDkBo841DwjSkAzhljrjaXc3)
+📌 Tüm videolar YouTube kanalımda: [@thejarrus](https://www.youtube.com/playlist?list=PLCJE3B86lxDkBo841DwjSkAzhljrjaXc3).
 
 ---
 
