@@ -1,32 +1,31 @@
-Day 13 — Times Table 🧮
-Bu mini projede, kullanıcının seçimine göre çarpım tablosu oluşturan bir C# console uygulaması geliştirdik.
-📅 40 Days of C# serisinin 13. günü.
+# Day 13: Kullanıcıdan Veri Alma ve Tip Dönüşümü
 
-🎯 Proje Amacı
-Kullanıcıya şu seçenekler sunulur:
+Bu klasörde C# dilinde **kullanıcıdan konsol üzerinden veri alma** ve alınan veriyi farklı veri tiplerine dönüştürme örneklerini bulabilirsiniz.  
+Örnekler, temel giriş/çıkış işlemlerinin nasıl yapılacağını ve `string` tipindeki verilerin `int`, `double` gibi sayısal tiplere nasıl dönüştürüleceğini gösterir.
 
-Tek bir sayı için çarpım tablosu
+---
 
-1’den N’e kadar tüm sayıların çarpım tabloları
+## 📌 Konular
 
-Çıkış
+- `Console.ReadLine()` ile kullanıcıdan veri alma
+- `int.Parse()` ve `double.Parse()` ile tip dönüşümü
+- `Convert.ToInt32()` ve `Convert.ToDouble()` alternatifleri
+- Kullanıcıdan birden fazla veri alma
+- Basit aritmetik işlemler ile giriş verilerini kullanma
+- Hatalı girişlerde programın çökmesini önlemek için `TryParse` kullanımı
 
-Kullanıcı girişleri 1 ile 100 arasında olacak şekilde kontrol edilir.
+---
 
-⚙️ Kullanılan Konular
-Bu proje, ilk 12 günde öğrendiğimiz temel C# konularını pekiştirmek amacıyla yazılmıştır:
+## 💻 Örnek Kod
 
-Değişkenler & Veri Tipleri
+```csharp
+Console.Write("Adınızı girin: ");
+string ad = Console.ReadLine();
 
-if-else koşul yapısı
+Console.Write("Yaşınızı girin: ");
+int yas = int.Parse(Console.ReadLine());
 
-Karşılaştırma ve mantıksal operatörler
+Console.Write("Boyunuzu girin (metre cinsinden): ");
+double boy = double.Parse(Console.ReadLine());
 
-switch-case
-
-for döngüsü
-
-TryParse ile güvenli kullanıcı girişi
-
-ToString() ile basit formatlama
-
+Console.WriteLine($"\nMerhaba {ad}, {yas} yaşındasın ve boyun {boy} metre.");
