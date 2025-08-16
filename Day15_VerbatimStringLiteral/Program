@@ -1,0 +1,29 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Klasik string tanımı. Ters eğik çizgi karakteri (\) özel anlam taşır.
+        string filePath = "C:\\Program Files\\MyApplication\\data.txt";
+
+        // Verbatim string literal (@) ile aynı dosya yolunun tanımı.
+        // Ters eğik çizgi karakterini özel anlamından çıkarır.
+        string verbatimFilePath = @"C:\Program Files\MyApplication\data.txt";
+
+        // Çok satırlı bir string tanımı. Normalde her satır sonuna \n eklemek gerekir.
+        string multiLineText = "Merhaba Dünya\nBu, yeni bir satır.\nVe bir tane daha.";
+
+        // Verbatim string literal (@) ile aynı metnin tanımı.
+        // Metin aynen yazıldığı gibi algılanır.
+        string verbatimMultiLineText = @"Merhaba Dünya
+Bu, yeni bir satır.
+Ve bir tane daha.";
+
+        Console.WriteLine("Normal String:\n" + filePath);
+        Console.WriteLine("\nVerbatim String:\n" + verbatimFilePath);
+
+        Console.WriteLine("\nÇok Satırlı Normal String:\n" + multiLineText);
+        Console.WriteLine("\nÇok Satırlı Verbatim String:\n" + verbatimMultiLineText);
+    }
+}              
