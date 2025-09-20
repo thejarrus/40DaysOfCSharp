@@ -29,3 +29,5 @@ Hem kendim öğreniyor hem de öğrendiklerimi paylaşıyorum.
 | 16  | String Formatting           | [YouTube](https://youtube.com/shorts/lVshhR3hujU?si=r8nvFm2eHfTGkTFR)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day16_StringFormatting)            |
 | 17  | String Interpolation        | [YouTube](https://youtube.com/shorts/XFpXV7TRNxk?si=smpXi6mqCB102lJr)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day17_StringInterpolation)         |
 | 18  | Empty String String Equals  | [YouTube](https://youtube.com/shorts/zhEzmFbfqcI?si=MDWxGygm7jEh7R-9)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day18_StringEqualsEmptyString)     |
+| 19  | String Concatenation        | [YouTube](https://youtube.com/shorts/kY2xIon1WZw?si=iEGKYkDQakQi8Q3R)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day19_StringConcatenation)         |
+
