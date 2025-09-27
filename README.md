@@ -30,4 +30,4 @@ Hem kendim öğreniyor hem de öğrendiklerimi paylaşıyorum.
 | 17  | String Interpolation        | [YouTube](https://youtube.com/shorts/XFpXV7TRNxk?si=smpXi6mqCB102lJr)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day17_StringInterpolation)         |
 | 18  | Empty String String Equals  | [YouTube](https://youtube.com/shorts/zhEzmFbfqcI?si=MDWxGygm7jEh7R-9)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day18_StringEqualsEmptyString)     |
 | 19  | String Concatenation        | [YouTube](https://youtube.com/shorts/kY2xIon1WZw?si=iEGKYkDQakQi8Q3R)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day19_StringConcatenation)         |
-
+| 20  | Empty String                | [YouTube](https://youtube.com/shorts/MVcdQaEeyco?si=x8njn1nDK2J8roHt)                              | [GitHub](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day20_EmptyString)                 |
