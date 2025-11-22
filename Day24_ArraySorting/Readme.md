@@ -59,8 +59,10 @@ class Program
         Console.Read();
     }
 }
-
-
+```
+📺 Konsol Çıktısı
+Kodu çalıştırdığında göreceğin ekran çıktısı şöyledir:
+```
 --- Rastgele Liste (Kaos) ---
 120.5 45 1250.99 19.9 500 
 
@@ -77,3 +79,4 @@ class Program
 - 120,50 TL
 - 45,00 TL
 - 19,90 TL
+```
