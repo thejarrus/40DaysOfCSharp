@@ -60,7 +60,7 @@ class Program
     }
 }
 ```
-📺 Konsol Çıktısı
+## 📺 Konsol Çıktısı
 Kodu çalıştırdığında göreceğin ekran çıktısı şöyledir:
 ```
 --- Rastgele Liste (Kaos) ---
