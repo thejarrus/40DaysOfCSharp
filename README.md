@@ -88,7 +88,7 @@ Bu seri, C# dilini 40 günde sıfırdan öğrenme sürecimi belgeliyor. Her gün
 | 33 | Constructor | [▶️](https://youtube.com/shorts/9j6Shp0T3zU?si=yldY6i0M-m0r539i) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day33_Constructor) |
 | 34 | Encapsulation | [▶️](https://youtube.com/shorts/uUEw-Qc2Klw?si=Tgxu-9x8MEC8F8z5) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day34_Encapsulation) |
 | 35 | Inheritance | [▶️](https://youtube.com/shorts/IGV_jx4juk0?si=lzo0FwT5S1oaV7IX) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day35_Inheritance) |
-| 36 | Polymorphism | 🔜 | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day36_Polymorphism) |
+| 36 | Polymorphism | 🔜 | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day36_%20Polymorphism/36.cs) |
 | 37 | Abstract Class & Interface | 🔜 | 🔜 |
 | 38 | Static Sınıflar ve Metotlar | 🔜 | 🔜 |
 | 39 | LINQ Temelleri | 🔜 | 🔜 |
