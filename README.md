@@ -91,7 +91,7 @@ Bu seri, C# dilini 40 günde sıfırdan öğrenme sürecimi belgeliyor. Her gün
 | 36 | Polymorphism | [▶️](https://youtube.com/shorts/YOekgZtQZqA?si=s4Yp-ZyTDliRPqrQ) | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day36_%20Polymorphism/36.cs) |
 | 37 | Abstract Class & Interface | [▶️](https://youtube.com/shorts/bDlW9iNsHLo?si=UQIWXbYtHA9_PR2v) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day37_%20AbstractClass&Interface) |
 | 38 | Static Sınıflar ve Metotlar | 🔜 | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day38_StaticS%C4%B1n%C4%B1flarveMetotlar/38.cs) |
-| 39 | LINQ Temelleri | 🔜 | 🔜 |
+| 39 | LINQ Temelleri | 🔜 | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day39_LINQ/39.cs) |
 | 40 | Final Proje: RPG Savaş Sistemi | 🔜 | 🔜 |
 
 ---
