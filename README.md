@@ -89,7 +89,7 @@ Bu seri, C# dilini 40 günde sıfırdan öğrenme sürecimi belgeliyor. Her gün
 | 34 | Encapsulation | [▶️](https://youtube.com/shorts/uUEw-Qc2Klw?si=Tgxu-9x8MEC8F8z5) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day34_Encapsulation) |
 | 35 | Inheritance | [▶️](https://youtube.com/shorts/IGV_jx4juk0?si=lzo0FwT5S1oaV7IX) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day35_Inheritance) |
 | 36 | Polymorphism | [▶️](https://youtube.com/shorts/YOekgZtQZqA?si=s4Yp-ZyTDliRPqrQ) | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day36_%20Polymorphism/36.cs) |
-| 37 | Abstract Class & Interface | [▶️📁](https://youtube.com/shorts/bDlW9iNsHLo?si=UQIWXbYtHA9_PR2v) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day37_%20AbstractClass&Interface) |
+| 37 | Abstract Class & Interface | [▶️](https://youtube.com/shorts/bDlW9iNsHLo?si=UQIWXbYtHA9_PR2v) | [📁](https://github.com/thejarrus/40DaysOfCSharp/tree/main/Day37_%20AbstractClass&Interface) |
 | 38 | Static Sınıflar ve Metotlar | 🔜 | [📁](https://github.com/thejarrus/40DaysOfCSharp/blob/main/Day38_StaticS%C4%B1n%C4%B1flarveMetotlar/38.cs) |
 | 39 | LINQ Temelleri | 🔜 | 🔜 |
 | 40 | Final Proje: RPG Savaş Sistemi | 🔜 | 🔜 |
